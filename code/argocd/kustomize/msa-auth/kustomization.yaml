@@ -6,4 +6,4 @@ resources:
 namespace: cowing-prod
 images:
 - name: ghcr.io/coinwing/cowing-msa-auth
-  newTag: 2025.07.25-b33ac1b
+  newTag: 2025.07.25-57cf008
